@@ -1,7 +1,7 @@
 # Carduino
 Repository for a arduino-car design made by me with FreeCAD. 
 
-<img src="gallery/carduino.png" width="300" align="center">
+<img src="gallery/Carduino.png" width="300" align="center">
 
 # License 
 
