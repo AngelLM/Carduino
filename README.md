@@ -11,4 +11,4 @@ The carduino design is licensed under a [Creative Commons Attribution-ShareAlike
 
 # Contribute
 
-  Please, do not heasitate on contributing to this library
+  Please, do not heasitate on contributing to this library! :)
